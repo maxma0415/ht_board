@@ -8,7 +8,8 @@
         </header>
         <section class="modal-card-body">
           <b-field label="Email">
-            <b-input type="email" v-model="email" :value="email" placeholder="Your email" required></b-input>
+            <!-- <b-input type="email" v-model="email" :value="email" placeholder="Your email" required></b-input> -->
+            <b-input type="text" v-model="email" :value="email" placeholder="Your email" required></b-input>
           </b-field>
 
           <b-field label="Password">
