@@ -1,5 +1,10 @@
 # ht_board
 
+## Demo
+[View Demo](https://maxma0415.github.io/ht_board/).
+* username - admin
+* password - 123456
+
 ## Project setup
 ```
 npm install
