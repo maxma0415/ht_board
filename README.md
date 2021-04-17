@@ -1,7 +1,7 @@
 # ht_board
 
 ## Demo
-[View Demo](https://maxma0415.github.io/ht_board/).
+<a href="https://maxma0415.github.io/ht_board/" target="_blank">View Demo</a>
 * username - admin
 * password - 123456
 
