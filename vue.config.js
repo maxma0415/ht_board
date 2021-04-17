@@ -15,6 +15,6 @@ module.exports = {
   },
   publicPath:
   process.env.NODE_ENV === "production"
-    ? "/DFAT-vue-dev/"
+    ? "/ht_board/"
     : "/"
 }

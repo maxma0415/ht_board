@@ -16,7 +16,7 @@
     "echarts": "^4.6.0",
     "json-server": "^0.15.1",
     "moment": "^2.24.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^4.14.1",
     "sass-loader": "^8.0.2",
     "vue": "^2.6.10",
     "vue-echarts": "^4.1.0",
